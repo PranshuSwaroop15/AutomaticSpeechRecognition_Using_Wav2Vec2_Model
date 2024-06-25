@@ -1,1 +1,3 @@
 AutomaticSpeechRecognition_Using_Wav2Vec2_Model developed by Pranshu Swaroop
+
+Link: https://huggingface.co/spaces/PranshuSwaroop4/AutomaticSpeechRecognitionUsingWav2Vec2
